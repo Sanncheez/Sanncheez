@@ -4,7 +4,8 @@
 
 # :rocket: About Me
 
-<img align="right" src="[https://github.com/user-attachments/assets/7ad4a667-7047-482d-9d50-1f34f5b23d65](https://cdn.discordapp.com/attachments/963491126172586117/1461065526968188989/image.png?ex=696932ce&is=6967e14e&hm=c8ed1dc1c5deca66361eba6e8933bba61c838f017150f94c3062dfb1cac51b54&)" alt="Sanncheez Github Profiles" width="186">
+<img align="right" src="https://cdn.discordapp.com/attachments/963491126172586117/1461065526968188989/image.png" width="186" />
+
 
 <div align="start">
 
