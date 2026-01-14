@@ -4,7 +4,7 @@
 
 # :rocket: About Me
 
-<img align="right" src="https://cdn.discordapp.com/attachments/963491126172586117/1461065526968188989/image.png" width="186" />
+<img align="right" src="[https://cdn.discordapp.com/attachments/963491126172586117/1461065526968188989/image.png]" width="186" />
 
 
 <div align="start">
