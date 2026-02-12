@@ -22,7 +22,3 @@ I am passionate about learning new technologies and tackling complex challenges 
 ## :globe_with_meridians: Connect With Me
 
 [![Email](https://img.shields.io/badge/EMAIL-sanncheezdev@gmail.com-c4523c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanncheezdev@gmail.com)
-
-## :chart_with_upwards_trend: My Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanncheez&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
