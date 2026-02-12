@@ -4,9 +4,6 @@
 
 # :rocket: About Me
 
-<img align="right" src="https://cdn.discordapp.com/attachments/963491126172586117/1461065526968188989/image.png?ex=696932ce&is=6967e14e&hm=c8ed1dc1c5deca66361eba6e8933bba61c838f017150f94c3062dfb1cac51b54&" width="186" />
-
-
 <div align="start">
 
 Hi! I'm Pablo Sánchez, a developer passionate about creating exceptional digital experiences and innovative technological solutions.
